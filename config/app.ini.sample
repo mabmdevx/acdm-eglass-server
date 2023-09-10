@@ -1,0 +1,13 @@
+[site]
+SITE_NAME     = eGlass
+SITE_SHORT_NAME = eGlass
+
+[database]
+DB_HOST     = localhost
+DB_NAME     = eglass
+DB_USER     = dbuserxyz
+DB_PASSWORD = dbpasswordxyz
+
+[Google APIs]
+GOOGLE_MAPS_API_KEY = "xyz"
+GOOGLE_TRANSLATE_API_KEY = "abc"
